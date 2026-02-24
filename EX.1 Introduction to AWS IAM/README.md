@@ -1,5 +1,12 @@
 # Lab 1 - Introduction to AWS Identity and Access Management (IAM)
 
+## Experiment BY:
+Name : RICHARD PRABU
+
+Reg.no :212223060225
+
+Slot :T1 Blended-3
+
 ## Title
 Introduction to AWS Identity and Access Management (IAM)
 
@@ -27,15 +34,19 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 - Reviewed pre-created IAM users: user-1, user-2, user-3  
 - Explored IAM groups: EC2-Admin, EC2-Support, S3-Support  
 - Inspected managed and inline policies attached to groups  
-**Screenshot:**  
-(Add screenshot here)
+**Screenshot:**
+  
+ <img width="1896" height="887" alt="Screenshot 2026-02-05 224413" src="https://github.com/user-attachments/assets/ad3b887c-1eb8-42eb-847d-2a53b9ecf5ff" />
+
 
 ### Task 2: Add Users to Groups
 - Added user-1 to the S3-Support group  
 - Added user-2 to the EC2-Support group  
 - Added user-3 to the EC2-Admin group  
 **Screenshot:**  
-(Add screenshot here)
+
+<img width="1918" height="930" alt="Screenshot 2026-02-05 225222" src="https://github.com/user-attachments/assets/537856be-9c32-4b81-90c8-798376894d32" />
+
 
 ### Task 3: Test IAM User Permissions
 - Logged in using IAM sign-in URL  
@@ -43,7 +54,9 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 - Verified EC2 read-only access for user-2  
 - Verified EC2 administrative access for user-3  
 **Screenshot:**  
-(Add screenshot here)
+
+<img width="1919" height="1079" alt="Screenshot 2026-02-05 223806" src="https://github.com/user-attachments/assets/612263b2-f16a-4e1b-8d19-06cb8765cf9d" />
+
 
 
 ## Workflow
@@ -65,7 +78,5 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 This lab provided hands-on experience with AWS IAM by demonstrating how organizations manage secure access to cloud resources. Assigning users to groups with predefined policies simplified permission management and ensured role-based access control across AWS services.
 
 
-## Author
-**Name:** Your Name and (Reg No)
-**Course:** Introduction to Cloud Computing  
+
 
