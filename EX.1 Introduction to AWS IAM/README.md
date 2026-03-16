@@ -68,4 +68,5 @@ This lab provided hands-on experience with AWS IAM by demonstrating how organiza
 ## Author
 **Name:** Your Name and (Reg No)
 **Course:** Introduction to Cloud Computing  
+![WhatsApp Image 2026-03-16 at 10 10 57 PM](https://github.com/user-attachments/assets/19ad82d9-9024-44c1-a9fb-d45b36c268b4)
 
