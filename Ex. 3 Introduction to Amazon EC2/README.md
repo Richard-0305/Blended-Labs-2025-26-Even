@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: RICHARD PRABU
+* **Register Number**: 212223060225
+* **Date of Submission**: 26/03/2026
 
 ---
 
@@ -97,32 +97,37 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 ## Workflow (Student Explanation)
 
 (Write the steps you followed in your own words)
-
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
-
+```
+1.Launched a new EC2 instance named Web Server in the N. Virginia region using Amazon Linux 2023 AMI and t2.micro instance type.
+2.Enabled termination protection and stop protection, configured a security group, and added a user data script to install and start an Apache web server.
+3.Monitored the instance using status checks, CloudWatch metrics, and system logs to ensure it was running properly.
+4.Modified the security group to allow HTTP (port 80) traffic and accessed the web server using the public IP address.
+5.Resized the instance to t2.small, increased the EBS volume size, explored EC2 service quotas, tested stop protection, and finally stopped the instance.
+```
 ---
 
 ## Output Screenshots (Attach 3)
 
 ### Screenshot 1: EC2 Dashboard / Instance List
 
-(Insert Screenshot Here)
+<img width="1265" height="566" alt="image" src="https://github.com/user-attachments/assets/86ca9bcd-543a-4ca8-8f92-ad4644c1210b" />
+
+
 
 ---
 
 ### Screenshot 2: SSH Connection to Instance
 
-(Insert Screenshot Here)
+<img width="1920" height="1080" alt="Screenshot (242)" src="https://github.com/user-attachments/assets/5383a529-6f8f-470f-a209-8d62fb092662" />
+
 
 ---
 
 ### Screenshot 3: Instance Monitoring / Status
 
-(Insert Screenshot Here)
+<img width="1260" height="561" alt="image" src="https://github.com/user-attachments/assets/b5a935e0-4206-4954-a349-ceeeb073dd58" />
+
+
 
 ---
 
